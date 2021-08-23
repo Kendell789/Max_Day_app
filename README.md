@@ -1,2 +1,2 @@
-# maxDay_app
+# Max_Day_app
 iOS application for optimal warmup and timing when attempting a One-Rep-Max
